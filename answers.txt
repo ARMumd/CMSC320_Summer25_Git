@@ -1,3 +1,18 @@
+Q1: Why might we consider using Git?
+
+Answer: It allows for easy collaboration and version control of software.
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: The possibilities for applications of data science are endless. A field that I am passionate about that could utilize data science is medicine/healthcare, the utilization of data to shape research and provide care to patients is exciting.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: git merge allows for the combining of all changes from one branch to another, while rebasing moves your branches commits onto another branch, reapplying your changes on top of the other branch. Rebasing has the benefit of creating a more linear history, while merging preserves more context and is less destructive.
+
+
 Q4: What are you looking forward to this semester?
 
 Answer: I am excited to learn more about the specific technologies utilized in this course, as I know they are extremely real-world applicable, such as Python, Numpy, Pandas, SQL, Git and Colab!
